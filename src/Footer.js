@@ -9,6 +9,7 @@ export default function Footer() {
         <a
           href="https://github.com/TLaloo/Vanilla-Weather-App_TL"
           target="_blank"
+          rel="noreferrer"
         >
           Open-Source Code
         </a>
