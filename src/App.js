@@ -1,5 +1,3 @@
-import logo from "./logo.svg";
-
 import Temperature from "./Temperature";
 import Search from "./Search";
 import Footer from "./Footer";
